@@ -2,4 +2,4 @@
 - 👀 I’m interested in Web development and software engineering overall.
 - 🌱 I’m currently learning frontend framework React.
 - 💞️ I’m looking to collaborate on building something awsome.
-- 📫 You can reach me out here. https://waqas.life
+- 📫 You can reach me out here. [https://waqas.life](https://waqas-nasir-730.github.io/)
